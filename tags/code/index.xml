@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on Call me Sam</title>
-    <link>/tags/code/</link>
+    <link>https://vickylai.io/call-me-sam/tags/code/</link>
     <description>Recent content in Code on Call me Sam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 13:56:12 -0500</lastBuildDate>
     
-	<atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vickylai.io/call-me-sam/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Code Poetry</title>
-      <link>/posts/code-poetry/</link>
+      <link>https://vickylai.io/call-me-sam/posts/code-poetry/</link>
       <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
       
-      <guid>/posts/code-poetry/</guid>
+      <guid>https://vickylai.io/call-me-sam/posts/code-poetry/</guid>
       <description>Pseudo code poem.
 if (this === that): try write_new_poem() except not_a_poet as e: return  </description>
     </item>
