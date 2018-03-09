@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Code on Call me Sam</title>
-    <link>https://vickylai.io/call-me-sam/tags/code/</link>
-    <description>Recent content in Code on Call me Sam</description>
+    <title>Blog on Call me Sam</title>
+    <link>https://vickylai.io/call-me-sam/tags/blog/</link>
+    <description>Recent content in Blog on Call me Sam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Mar 2018 20:18:53 -0500</lastBuildDate>
     
-	<atom:link href="https://vickylai.io/call-me-sam/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vickylai.io/call-me-sam/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,13 +21,12 @@
     </item>
     
     <item>
-      <title>Code Poetry</title>
-      <link>https://vickylai.io/call-me-sam/posts/code-poetry/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      <title>About Sam</title>
+      <link>https://vickylai.io/call-me-sam/posts/about-sam/</link>
+      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
       
-      <guid>https://vickylai.io/call-me-sam/posts/code-poetry/</guid>
-      <description>Pseudo code poem.
-if (this === that): try write_new_poem() except not_a_poet as e: return  </description>
+      <guid>https://vickylai.io/call-me-sam/posts/about-sam/</guid>
+      <description>Hello! I&amp;rsquo;m a blog post with an image.</description>
     </item>
     
   </channel>
