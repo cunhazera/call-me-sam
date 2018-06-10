@@ -36,7 +36,8 @@
       
       <guid>https://vickylai.com/call-me-sam/posts/code-poetry/</guid>
       <description>Pseudo code poem.
-if (this === that): try write_new_poem() except not_a_poet as e: return console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay toooooooooooooooooooo looooooooooooooooooooooooooooooong&amp;#39;) </description>
+if (this === that): try write_new_poem() except not_a_poet as e: return  Or just one long line&amp;hellip;
+console.log(&amp;#39;Sometimes lines are waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay toooooooooooooooooooo looooooooooooooooooooooooooooooong&amp;#39;) </description>
     </item>
     
     <item>
